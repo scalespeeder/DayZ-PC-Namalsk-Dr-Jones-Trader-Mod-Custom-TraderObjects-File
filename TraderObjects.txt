@@ -64,7 +64,7 @@
 	
 
 
-// Zapadlisko SE:
+// Namalsk Airfield:
 
 <Object> 			SurvivorF_Irena						// Classname consumer trader
 <ObjectPosition>	6331.5498046875,                20.700000762939454,                9485.33984375		// Coordinate X, 	Coordinate Y, 	Coordinate Z
